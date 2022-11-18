@@ -1,4 +1,4 @@
-# SparseCode
+# SparCode
 **Beyond Two-Tower Matching: Learning Sparse Retrievable Interaction Models for Recommendation** (WWW' 2023 Submitted) only for demonstration.
 
 Liangcai Su, **Haoyi Duan**, Jieming Zhu, Fan Yan, Xi Xiao, Zhou Zhao, Zhenhua Dong and Ruiming Tang
